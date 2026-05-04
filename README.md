@@ -1,23 +1,41 @@
 <h3 align="center">Graduate of Bachelor of Science in Information Technology at New Era University</h3>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## About Me
+
+I am an aspiring software engineer with aspirations to own a company in the future.  
+Currently, I am a full-stack developer transitioning into mobile development.
+
+### Experience
+
+- **Internship at ELRO Retail Corporation**  
+  Managed components for **Ipanemaphilippines.com (Magento)** and developed a **hotel booking website** using **Qloapps**.
+
+- **Voluntary Internship (Startup Company here at Philippines | ~2 months)**  
+  Worked as a **Software Developer Intern**, contributing to development tasks and gaining real-world project experience such as job portal, and payroll system.
+
+### Current Goal
+
+My current goal is to secure a job and continue pursuing my dream of becoming a software engineer.
+
+---
+
+## Connect With Me
+
 <p align="left">
-  <a href="https://codepen.io/denzeru-navarro" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/denzel-navarro-82897b228" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## Programming Languages and Tools
+
+### Web Development (MERN Stack & Related Tools)
+
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -39,9 +57,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -51,6 +66,28 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denzelnavarro&show_icons=true&locale=en&layout=compact" alt="denzelnavarro" /></p>
+---
+
+### Mobile Development
+
+<p align="left">
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react-native" width="40" height="40"/>
+  </a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## Languages Used
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denzelnavarro&show_icons=true&locale=en&layout=compact" alt="denzelnavarro" />
+</p>
