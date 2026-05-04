@@ -22,7 +22,7 @@ My current goal is to secure a job and continue pursuing my dream of becoming a 
 ## Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/denzel-navarro-82897b228" target="blank">
+  <a href="[https://linkedin.com/in/denzel-navarro-82897b228](https://www.linkedin.com/in/denzel-ronald-navarro-82897b228/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
