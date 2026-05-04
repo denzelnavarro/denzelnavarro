@@ -1,5 +1,3 @@
-<h3 align="center">Graduate of Bachelor of Science in Information Technology at New Era University</h3>
-
 ---
 
 ## About Me
